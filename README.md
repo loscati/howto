@@ -4,6 +4,7 @@ Collection of "how to"s regarding miscellaneous topics
 ## Molecular Dynamics and visualization
 - [Install LAMMPS](howto_lammps.md) (it might be outdated)
 - [Topology `psf` files from LAMMPS `data`](howto_VMD_psf_from_data.md)
+- [List of references for PyMol](howto_pymol.md)
 
 ## Coding
 - [Python lint and format in VSCode](howto_lint%26format_python_vscode.md)
