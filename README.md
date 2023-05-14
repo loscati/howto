@@ -17,6 +17,7 @@ Collection of "how to"s regarding miscellaneous topics
 
 ## Academic
 - [Use Zotero and sync it with Google Drive](howto_zotero.md)
+- [Use Inkscape to illustrate and setup images for scientific purposes](howto_inkscape4scientific_illustrations.md): illustrations, modify plots, compose and so on.
 
 ## Other
 - [Some nice touches to Thunderbird aesthetics and use](howto_setup_thunderbird.md)
