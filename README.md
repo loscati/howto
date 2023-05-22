@@ -6,6 +6,9 @@ Collection of "how to"s regarding miscellaneous topics
 - [Topology `psf` files from LAMMPS `data`](howto_VMD_psf_from_data.md)
 - [List of references for PyMol](howto_pymol.md)
 
+## Bioinformatics
+- [Thorought notebook guiding on how to build a model with MODELLER](howto_missingresidues_modeller.ipynb)
+
 ## Coding
 - [Python lint and format in VSCode](howto_lint%26format_python_vscode.md)
 - [Print code](howto_print_code.md)

@@ -16,4 +16,4 @@
 
 ## References
 - [Di Carlo Lab seminar](https://youtu.be/1XKHm8MJt1I)
-- [Inkscape scientific tutorial playlisthttps://youtu.be/eyqH0IrzYLc]()
+- [Inkscape scientific tutorial playlist](https://youtu.be/eyqH0IrzYLc)
