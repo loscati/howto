@@ -28,6 +28,8 @@ There is a an important semantic difference between `object` and `path`. An `obj
 One can convert objects into paths. For example, create a square, leave only the outline, then convert it to a path in order to modifying it.  
 
 Edit path tool modify the selected object. Hold `crtl` and left mouse key to modify "rigidly" an obj, such as the line in a graph. Use this tool when you have to modify lines instead of the selector tool. This avoids modification of the curve thickness.  
+
+One can split a path at a specific node by first selecting the node, then break the path (on the top menu) and then in `Path > Break apart`.
 ### Shapes
 - Properties are display on top of the UI
 - Once you draw a shape, in the right corner there are some points to modify borders. The edit tool let you do de same
