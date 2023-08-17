@@ -17,6 +17,8 @@ Collection of "how to"s regarding miscellaneous topics
 ## Linux
 - [Screen](howto_screen.md): run processes through ssh that do not close once you disconnect
 - [Setup Latex with VSCode in Manjaro](howto_setup_latex.md). Other distros might have similar processes
+- [Setup and maintain a local NAS system](howto_DIY_nas.md)
+- [Photography on linux](howto_photography_on_linux.md)
 
 ## Academic
 - [Use Zotero and sync it with Google Drive](howto_zotero.md)
@@ -25,5 +27,4 @@ Collection of "how to"s regarding miscellaneous topics
 ## Other
 - [Some nice touches to Thunderbird aesthetics and use](howto_setup_thunderbird.md)
 - [Python class implementation of how to quickly apply the Bayes theorem](howto_apply_bayes_quickly.py)
-- [Photography on linux](howto_photography_on_linux.md)
-- [Setup and maintain a local server and/or NAS system](howto_DIY_nas.md)
+- [Customize Firefox to ensure privacy](howto_hardening_firefox.md)
