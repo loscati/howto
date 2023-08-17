@@ -26,3 +26,4 @@ Collection of "how to"s regarding miscellaneous topics
 - [Some nice touches to Thunderbird aesthetics and use](howto_setup_thunderbird.md)
 - [Python class implementation of how to quickly apply the Bayes theorem](howto_apply_bayes_quickly.py)
 - [Photography on linux](howto_photography_on_linux.md)
+- [Setup and maintain a local server and/or NAS system](howto_DIY_nas.md)
