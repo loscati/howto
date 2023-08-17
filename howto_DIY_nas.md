@@ -30,4 +30,5 @@ Important: watch out for the fault tolerant, e.g. the WD Red Pro instead of norm
 
 # References
 - Video series from [MorroLinux (in italian)](https://youtu.be/DrHn9wlyzJ0)
+- [MergerFS + SnapRAID (Italian)](https://youtu.be/5QSkDZi9OzY)
 - Good [HD buy guide from the DataHoader subreddit](https://www.reddit.com/r/DataHoarder/wiki/hardware/#wiki_nas)
