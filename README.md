@@ -13,6 +13,7 @@ Collection of "how to"s regarding miscellaneous topics
 - [Python lint and format in VSCode](howto_lint%26format_python_vscode.md)
 - [Print code](howto_print_code.md)
 - [Using `venv`](howto_venv.md) (no `conda` section yet)
+- [Use GNU `diff` and `patch` to apply patches to files](howto_diff_and_patch.md)
 
 ## Linux
 - [Screen](howto_screen.md): run processes through ssh that do not close once you disconnect
