@@ -39,6 +39,10 @@ WIP
 + **SyncTex**: to jump from source to pdf (when using an internal pdf viewer) select the text and use the shortcut `ctrl + alt + j`. Viceversa, by clicking at a specific point in the pdf while holding down `ctrl`, the software finds the relative part in the source code.
 + **Clean extra files**: shortcut `ctrl + alt + c` remove extra files produced by compilation
 + **latexmk**: software, written in perl, which installs together with Tex Live. It is automatically used by the Latex Workshop extension to chose how to build the document. For example if we have a bibliography to compile with Biber, latexmk does the following: run pdfTex, then Biber and pdfTex again as it should be.  
++ The extension can automatically format the document, if you want you can set the automatic formatting onSave
+
+### Troubleshooting
+- If the formatting does not work because `stderr: Can't locate YAML/Tiny.pm in @INC (you may need to install the YAML::Tiny module)`, then you have to install the perl modules required by using `cpan YAML::Tiny module`. This has to be done for all modules required. Tip: check `output > Latex Workshop` for hints about this problem, or call the `latexindent` program from terminal.
 
 ## Test and MWE
 The Minimal Working Example (MWE) is the following

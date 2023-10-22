@@ -25,6 +25,10 @@ Collection of "how to"s regarding miscellaneous topics
 - [Use Zotero and sync it with Google Drive](howto_zotero.md)
 - [Use Inkscape to illustrate and setup images for scientific purposes](howto_inkscape4scientific_illustrations.md): illustrations, modify plots, compose and so on.
 
+## Professional
+- [Notes on how to structure a Curriculum Vitae (in Italian)](howto_CV.md)
+- [Notes on how to manage a Linkedin Account (in Italian)](howto_linkedin.md)
+
 ## Other
 - [Some nice touches to Thunderbird aesthetics and use](howto_setup_thunderbird.md)
 - [Python class implementation of how to quickly apply the Bayes theorem](howto_apply_bayes_quickly.py)
