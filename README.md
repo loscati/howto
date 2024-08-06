@@ -20,6 +20,9 @@ Collection of "how to"s regarding miscellaneous topics
 - [Setup Latex with VSCode in Manjaro](howto_setup_latex.md). Other distros might have similar processes
 - [Setup and maintain a local NAS system](howto_DIY_nas.md)
 - [Photography on linux](howto_photography_on_linux.md)
+- [My Firefox setup](howto_my_firefox_customization.md)
+- [Customize Firefox to ensure privacy](howto_hardening_firefox.md)
+- [The CLI basics](howto_CLI_basics.md)
 
 ## Academic
 - [Use Zotero and sync it with Google Drive](howto_zotero.md)
@@ -32,4 +35,3 @@ Collection of "how to"s regarding miscellaneous topics
 ## Other
 - [Some nice touches to Thunderbird aesthetics and use](howto_setup_thunderbird.md)
 - [Python class implementation of how to quickly apply the Bayes theorem](howto_apply_bayes_quickly.py)
-- [Customize Firefox to ensure privacy](howto_hardening_firefox.md)
