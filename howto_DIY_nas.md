@@ -69,6 +69,7 @@ Cons:
 - More consumption on the CPU side
 - dissipation on the BOTTOM part
 
+![Difference between ZimaBoard and ZimaBlade](assets/difference-to-the-zimaboard.webp)
 
 # Distro
 
@@ -119,13 +120,20 @@ Cons:
 General tip: do not buy the same type of disks, from the same loot, and at the same time. The chances of having both disks failing at the same time are higher.
 
 1. HD
+   Avoid SMR-types of HD. These are quite slow in case of a RAID reconstruction (up to 1 week per TeraByte).
 
-   Generally are cheper, but high-end ones does not seems significantly more convinient than SSDs. 
-   - [Western Digital Red Pro 2 TB 3.5" 7200 RPM](https://pcpartpicker.com/product/3dNp99/western-digital-internal-hard-drive-wd2001ffsx)
-   Important: watch out for the fault tolerant, e.g. the WD Red Pro instead of normal Red
+   Usually, HD are louder, consume more and are slower than SSDs. For the latter, keep an eye on what is the real bottleneck of the setup, because it might be the internet connection rather than the R/W speed.
+
+   Generally are cheaper, but high-end ones does not seem significantly more convenient than SSDs. 
+
+   - WD Red Plus 4TB
 2. SSD
 
    Watch out for the TbW (TeraBytes Written) value. This is the amount of data that can be written to the disk before it starts to fail.
+   Some types of RAID can cause a lot of undesired writes: "Beware of using parity RAIDs with SSDs as they cause "write amplification" - updating a small fragment of data requires updating lots of metadata, so can cause lots of unexpected writes." [source](https://www.reddit.com/r/homelab/comments/14ctn8s/comment/jomj0yf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). In this regard, modern file-systems are SSD-aware and configuration such as RAID 1 or 10 minimized such write amplification.
+   You should keep an eye to those processes that creates a lot of logs, those can be detrimental for the SSD.
+
+   Another aspect is the number of bits per cell used, that can change the endurance and the performance of the SSD, see [the multi-level cell](https://en.wikipedia.org/wiki/Multi-level_cell)
    - Samsung 870 QVO
 
 # References
