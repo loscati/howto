@@ -112,10 +112,16 @@ Cons:
 ## Jellinfin / Plex
 
 # Disks
+General tip: do not buy the same type of disks, from the same loot, and at the same time. The chances of having both disks failing at the same time are higher.
+
 1. HD
+
+   Generally are cheper, but high-end ones does not seems significantly more convinient than SSDs. 
    - [Western Digital Red Pro 2 TB 3.5" 7200 RPM](https://pcpartpicker.com/product/3dNp99/western-digital-internal-hard-drive-wd2001ffsx)
    Important: watch out for the fault tolerant, e.g. the WD Red Pro instead of normal Red
 2. SSD
+
+   Watch out for the TbW (TeraBytes Written) value. This is the amount of data that can be written to the disk before it starts to fail.
    - Samsung 870 QVO
 
 # References
