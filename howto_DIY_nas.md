@@ -12,6 +12,10 @@ This isntructions and information are tuned for my needs. There is no attempt to
 # Basics
 ### RAID 0 and 1
 RAID is a configuration for multiple disks. RAID 0 is a configuration where the data is split between the disks. This means that if one disk fails, all data is lost. RAID 1 is a configuration where the data is mirrored between the disks. This means that if one disk fails, the data is still available in the other disk.
+
+An inportant note is that RAID is not backup. RAID is a scheme that can help you backup you data, but it does not garanties you the safety of your data.
+For example, you could have 2 SSDs in RAID 1 to have a mirror image of you data. In the case of a double disk failure (which can happens due to environmental factors such as a fire, but also with the EOF of both disks, see [the disk section](#disks)), you would lose all your data.
+
 ### [Samba](https://wiki.archlinux.org/title/Samba)
 A software suite that allows to share files in the local network, especially with Windows machines.
 ### LXC vs Docker
