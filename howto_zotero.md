@@ -11,8 +11,10 @@ Two *plugins* are added:
 2.  Better BibTex: export the library into a plain .bib file
 
 ### Workflow to save a document (paper, book etc.)
+> WARNING 2024/9: ZotFile [has no plan](https://github.com/jlegewie/zotfile/issues/655#issuecomment-1595364307) to support the recent Zotero 7 update.
+> I'll probably need to rely on another plugin or stick with Zotero 6.x.x
 1.  Drag the PDF into Zotero (in the collection chosen, e.g. Thesis)
-2.  Rename it using ZotFile by right click on the item and selecting
+2.  Rename it using **ZotFile** by right click on the item and selecting
     Manage Attachments --> Rename Attachments.
     NOTE: the success of the operation is marked by the file being saved
     in the local folder `/home/user/zotero-library`
