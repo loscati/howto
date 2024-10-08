@@ -142,3 +142,4 @@ General tip: do not buy the same type of disks, from the same loot, and at the s
 - [MergerFS + SnapRAID (Italian)](https://youtu.be/5QSkDZi9OzY)
 - Good [HD buy guide from the DataHoader subreddit](https://www.reddit.com/r/DataHoarder/wiki/hardware/#wiki_nas)
 - [Transcoding](https://www.reddit.com/r/PleX/comments/11ih0gs/plex_hardware_transcoding_explained/)
+- A nice [playlist](https://youtu.be/f5jNJDaztqk?si=ZtPHAnuxci5u4VJC) about self-hosting is curated in Wolfgang's channel. He is very clear and concise
